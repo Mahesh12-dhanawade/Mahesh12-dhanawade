@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi Developers👋
 
-<!--
 **Mahesh12-dhanawade/Mahesh12-dhanawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am full stack enthusiast 
 
 Here are some ideas to get you started:
 
