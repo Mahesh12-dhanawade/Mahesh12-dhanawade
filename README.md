@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mahesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mahesh-dhanawade-07b61a19b)](https://www.linkedin.com/in/mahesh-dhanawade-07b61a19b)
-[![Website Badge](https://img.shields.io/badge/WebSite-Mahesh-green)](https://mahesh12-dhanawade.github.io/Portfolio-Mahesh/)
+
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mahesh-yellow)](https://stackoverflow.com/users/17939750/mahesh-dhanawade)
 
 I'm
