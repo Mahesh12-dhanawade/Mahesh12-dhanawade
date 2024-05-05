@@ -5,8 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mahesh-yellow)](https://stackoverflow.com/users/17939750/mahesh-dhanawade)
 
 I'm
-Full Stack Enthusiast
-I am learning the skills required for devoloping the websites such as HTML5, CSS3, Bootstrap, Javascript, Reactjs, MongoDB, Express. 
+Full Stack ASP.net developer.
+ 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Mahesh12-dhanawade/count.svg)
